@@ -1,1 +1,2 @@
-# Akshigame
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
